@@ -1,5 +1,5 @@
 Package: IDPSurvival
-Version: 1.01
+Version: 1.1
 Date: 2016-09-19
 Title: Imprecise Dirichlet Process for Survival Analysis
 Author: Francesca Mangili <francesca@idsia.ch>,
@@ -8,8 +8,8 @@ Author: Francesca Mangili <francesca@idsia.ch>,
 		Marco Zaffalon <zaffalon@idsia.ch>
 Maintainer: Francesca Mangili <francesca@idsia.ch>
 Depends: R (>= 3.0.2), Rsolnp, gtools, survival
-Description: This package contains functions to perform robust
-			 nonparametric survival analysis with right censored 
-			 data using a prior near-ignorant Dirichlet Process.
+Description: Functions to perform robust
+		 nonparametric survival analysis with right censored 
+		 data using a prior near-ignorant Dirichlet Process.
 License: GPL (>= 3) | file LICENSE
 URL: http://ipg.idsia.ch/software/
